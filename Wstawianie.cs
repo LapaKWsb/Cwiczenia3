@@ -7,7 +7,7 @@ namespace Zadanie 4
     {
         static void Main()
         {
-            int[] tablica = { 5, 2, 9, 7, 1, 3 };
+            int[] tablica = { 3, 4, 9, 2, 1, 5 };
             SortowaniePrzezWstawianie(tablica);
             WypiszTablice(tablica);
         }
