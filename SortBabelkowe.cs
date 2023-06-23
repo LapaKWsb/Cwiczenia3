@@ -7,7 +7,7 @@ namespace Zadanie 3
     {
         static void Main()
         {
-            int[] tablica = { 5, 2, 9, 7, 1, 3 };
+            int[] tablica = { 8, 2, 6, 7, 5, 0 };
 
             Console.WriteLine("Przed sortowaniem:");
             WypiszTablice(tablica);
